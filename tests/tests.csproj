@@ -15,5 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\01-02-03-BalanceProject\01-02-03-BalanceProject.csproj" />
   </ItemGroup>
 </Project>
